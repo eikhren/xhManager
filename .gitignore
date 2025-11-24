@@ -1,0 +1,6 @@
+# Rust CLI build output
+xhman/target/
+
+# Desktop app Gradle build artifacts
+xhman-desktop/.gradle/
+xhman-desktop/**/build/
